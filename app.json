@@ -1,0 +1,22 @@
+{
+  "name": "bln-3707-qa-demo",
+  "type": "app",
+  "defaultPage": "home",
+  "config": {
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "modules": [],
+    "properties": {
+      "version": "1.0.0-SNAPSHOT",
+      "description": "QA demo app with a home page that uses the reusable `priority-badge` component. It exposes only the required one-way text binding `status`."
+    },
+    "environments": [],
+    "themes": [],
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    }
+  }
+}

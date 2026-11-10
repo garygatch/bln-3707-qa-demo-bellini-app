@@ -1,0 +1,31 @@
+{
+  "type": "custom-component",
+  "name": "priority-badge",
+  "description": "Renders a bound priority label.",
+  "children": [
+    {
+      "name": "text",
+      "textContent": "undefined",
+      "evaluate": true
+    }
+  ],
+  "variables": [],
+  "bindings": [
+    {
+      "name": "status",
+      "type": "<",
+      "default": "",
+      "description": "Status text displayed by the component.",
+      "visibleWhen": "",
+      "label": "",
+      "group": "",
+      "example": "",
+      "actions": [],
+      "propertyType": "text",
+      "autocomplete": [],
+      "includeAssets": false
+    }
+  ],
+  "modules": [],
+  "styles": []
+}
